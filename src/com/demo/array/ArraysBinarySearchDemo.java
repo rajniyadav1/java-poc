@@ -2,7 +2,7 @@ package com.demo.array;
 
 import java.util.Arrays;
 
-public class ArrayBinarySearchDemo {
+public class ArraysBinarySearchDemo {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

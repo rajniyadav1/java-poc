@@ -1,6 +1,6 @@
 package com.demo.array;
 
-public class ArrayCopyDemo {
+public class ArraySystemCopyDemo {
 	public static void main(String[] args) {
 		char[] copyFrom = { 'd', 'e', 'c', 'a', 'f', 'f', 'e',
 			    'i', 'n', 'a', 't', 'e', 'd' };
